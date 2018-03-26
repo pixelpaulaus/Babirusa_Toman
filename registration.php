@@ -1,3 +1,3 @@
 <?php
 use \Magento\Framework\Component\ComponentRegistrar;
-ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Magcurrency_bitcoin', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Magcurrency_Bitcoin', __DIR__);
