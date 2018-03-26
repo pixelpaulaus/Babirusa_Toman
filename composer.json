@@ -1,15 +1,15 @@
 {
-  "name": "babirusa/toman",
-  "description": "Adding Iranian Toman (IRT) to Magento Currencies",
+  "name": "magcurrency/bitcoin",
+  "description": "Adding Bitcoin to Magento Currencies Forked from babirusa/toman",
   "type": "magento2-module",
-  "version": "010.0.1",
+  "version": "1.0.0",
   "autoload": {
     "files": [
       "Model/Framework/Locale/Bundle/CurrencyBundle.php",
       "registration.php"
     ],
     "psr-4": {
-      "Babirusa\\Toman\\": ""
+      "Magcurrency\\Bitcoin\\": ""
     }
   }
 }
