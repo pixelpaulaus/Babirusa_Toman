@@ -202,6 +202,10 @@ en{
             "BSD",
             "Bahamian Dollar",
         }
+	BTC{
+	    "BTC",
+	    "Bitcoin",
+        }
         BTN{
             "BTN",
             "Bhutanese Ngultrum",
@@ -505,10 +509,6 @@ en{
         IRR{
             "IRR",
             "Iranian Rial",
-        }
-		IRT{
-            "IRT",
-            "Iranian Toman",
         }
         ISJ{
             "ISJ",
