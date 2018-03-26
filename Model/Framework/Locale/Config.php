@@ -1,5 +1,5 @@
 <?php
-namespace Babirusa\Toman\Model\Framework\Locale;
+namespace Magcurrency\Bitcoin\Model\Framework\Locale;
 
 class Config extends \Magento\Framework\Locale\Config
 {
@@ -8,7 +8,7 @@ class Config extends \Magento\Framework\Locale\Config
      */
     public function getAllowedCurrencies()
     {
-        $this->_allowedCurrencies[] = 'IRT';
+        $this->_allowedCurrencies[] = 'BTC';
         return $this->_allowedCurrencies;
     }
 }
